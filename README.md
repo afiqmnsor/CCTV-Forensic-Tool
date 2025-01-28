@@ -8,3 +8,5 @@ Features
 5) Geolocation data (country, city, latitude, longitude).
 6) Open in Browser: Open the selected camera feed in your default web browser.
 7) Google Maps Integration: View the geolocation of the camera feed on Google Maps.
+
+OpenEye.exe (Portable Executable)
